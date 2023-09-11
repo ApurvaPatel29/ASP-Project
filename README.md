@@ -1,6 +1,6 @@
 # ASP-Project: Client Server File Transfer with Load Balancer 
 
-This GitHub project is a client-server file transfer system developed as part of a master's program in Advanced System Programming. The system allows clients to request files or sets of files from a server, which searches for the requested files and sends them to the client in a compressed format (tar.gz). Here's a simplified overview of the project for easier understanding:
+This GitHub project is a client-server file transfer system developed as part of a master's program in Advanced System Programming. The system allows clients to request files or sets of files from a server, which searches for the requested files and sends them to the client in a compressed format (tar.gz). 
 
 ## Team Members and Contributions:
 - Apurvakumar Patel:
